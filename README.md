@@ -3,7 +3,7 @@
 2. npm run start
 
 # Netflex Clone 
-Create a netflex clone with React 
+Create a netflex clone with React front and used Firebase as the backend 
 
 # Technology Use:
 - React 
