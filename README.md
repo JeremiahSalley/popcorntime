@@ -6,11 +6,11 @@
 Create a netflex clone with React 
 
 # Technology Use:
--React 
--FireBase
--Axios
--Movie-Trailer
--React-youtube
+- React 
+- FireBase
+- Axios
+- Movie-Trailer
+- React-youtube
 
 # Functionality
 1. Able to scroll left and right on each row
