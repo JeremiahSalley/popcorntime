@@ -1,4 +1,4 @@
-# popcorntime
+# Popcorntime
 1. cd into popcorn
 2. npm run start
 
