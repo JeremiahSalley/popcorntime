@@ -17,4 +17,4 @@ Create a netflex clone with React front and used Firebase as the backend
 2. click on thumbnail to play trailer
 
 # Deployment 
--https://popcorntime-55ab1.web.app/
+- https://popcorntime-55ab1.web.app/
