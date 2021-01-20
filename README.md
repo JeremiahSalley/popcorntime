@@ -1,14 +1,14 @@
 # popcorntime
 
-#Netflex Clone 
+# Netflex Clone 
 Create a netflex clone with React 
 
-#Technology Use:
+# Technology Use:
 -React 
 -FireBase
 -Axios
 -Movie-Trailer
 -React-youtube
 
-#Deployment 
+# Deployment 
 -https://popcorntime-55ab1.web.app/
